@@ -42,7 +42,7 @@ Feel free to link away from Crunchy pages if it helps you explain something.
 Include images in your blog posts when it makes sense. If you’re explaining how to use a GUI tool, screenshots can help illustrate your point. Make sure to use alt text.
 
 ## Formatting blog posts
+Blog posts can be written in markdown or within a google doc. Blog content uses organization, capitalization, and other formatting to help convey meaning
 
 ### Headings
 Organize posts with H2s and H3s. Use H2s for higher-level topics or goals and use H3s within each section for supporting information or tasks.
-
