@@ -20,13 +20,13 @@ All of this means that when we write content:
 
 2. **We are genuine.** We relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way.
 
-3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify database- and open source-speak and actually educate.
+3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify database and open-source speak and actually educate.
 
 ## Tone
 
 When you’re writing, consider the reader’s state of mind. <!--Are they confused and seeking our help on Twitter? --> Once you have an idea of their emotional state, you can adjust your tone accordingly.
 
-It's all right to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
+It's alright to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
 
 ## Style tips
 
