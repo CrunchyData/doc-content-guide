@@ -11,9 +11,9 @@ Blog topics can range from in-depth explanations of new or old technology to str
 
 You can ask yourself the following questions to generate a useful blog topic:
 
-*What technology and solutions are relevant to users right now? What’s trending?
-*What problems are users commonly facing and can I provide a succinct step-by-step solution?
-*What would I want to read? What’s my favorite technical blog and why?
+- What technology and solutions are relevant to users right now? What’s trending?
+- What problems are users commonly facing and can I provide a succinct step-by-step solution?
+- What would I want to read? What’s my favorite technical blog and why?
 
 Typically, the most popular types of blog posts are answering a common question, solving a problem, and/or providing expert advice.
 
@@ -21,10 +21,10 @@ Typically, the most popular types of blog posts are answering a common question,
 When creating a title for your blog post, think of the end user and what phrase they would enter into Google search when looking for information on the topic you’re writing. Your title should be in plain language and summarize the main purpose of your blog in a few words. 
 Start your title with a action verb if possible, for example:
 
-*How to
-M*onitor
-*Deploy
-*Enhancing
+- How to
+- Monitor
+- Deploy
+- Enhancing
 
 If this is a specific type of technology you are demonstrating, include that in the title. The title phrasing makes a big difference in how it will appear organically in Google search results. An optimized title will help users find your blog post.
 
