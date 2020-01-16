@@ -55,6 +55,10 @@ Be as clear as possible. Use simple words and phrases, avoid gerunds and hard-to
 
 Screenshots, videos, and GIFs may not be necessary for every article or process, but can be helpful to orient new users. Crop screenshots tightly around the action to focus attention.
 
+#### Test all steps and code samples
+
+You want to be sure that what you've written does work as expected. 
+
 ### Formatting technical content
 
 Technical content uses organization, capitalization, and other formatting to help convey meaning. Although blog articles are organized differently, some formatting tips are consistent throughout all technical content.

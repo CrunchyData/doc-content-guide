@@ -1,9 +1,4 @@
----
-title: "Word List"
-date: 2019-12-18T11:01:11-08:00
-draft: false
-weight: 13
----
+# Word List
 
 These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).)
 

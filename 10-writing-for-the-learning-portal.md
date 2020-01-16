@@ -4,3 +4,6 @@ The Crunchy Data [Learning Portal](https://learn.crunchydata.com/) contains inte
 
 ## Guidelines
 
+short paragraphs, avoid walls of text  
+don't assume specific level of knowledge
+

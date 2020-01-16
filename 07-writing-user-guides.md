@@ -7,7 +7,8 @@ A user guide provides information that a user would need in day-to-day use of th
 
 ## Guidelines
 
-- 
+table of contents
+
 
 ## Template
 

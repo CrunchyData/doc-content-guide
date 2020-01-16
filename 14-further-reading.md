@@ -1,9 +1,4 @@
----
-title: "Further Reading"
-date: 2019-12-18T11:23:56-08:00
-draft: false
-weight: 14
----
+# Further Reading
 
 This guide is based on the work done by Mailchimp on their [style guide](https://styleguide.mailchimp.com/). (Here's the style guide [repository on GitHub](https://github.com/mailchimp/style-guide).)
 

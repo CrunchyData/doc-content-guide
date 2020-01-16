@@ -1,6 +1,6 @@
 # Content Guide
 
-This content guide is for Crunchy Data employees to use as a general reference for creating technical content (user guides, READMEs, etc.)
+This content guide is for Crunchy Data employees to use as a general reference for creating technical content (user guides, READMEs, etc.). The repository contains a collection of Markdown files:
 
 - [index.md](./index.md) is for the homepage
 - [01-tldr.md](./01-tldr.md) is intended to highlight the most important points throughout the guide
