@@ -4,7 +4,7 @@ All Crunchy blog posts are published on https://info.crunchydata.com/blog and wi
 
 ## Guidelines
 
-When writing for the blog, follow the style points outlined in the [Voice and tone](./03-voice-and-tone.md) and [Grammar and mechanics](./04-grammar-and-mechanics.md) sections. Here are some more general pointers, too.
+When writing for the blog, follow the style points outlined in the [Voice and tone](./03-voice-and-tone.md) and [Grammar and mechanics](./04-grammar-and-mechanics.md) sections. Here are some more specific pointers, too.
 
 ### Choosing a blog topic
 Blog topics can range from in-depth explanations of new or old technology to straightforward and helpful How To guides. When choosing a topic, keep your targeted reader in mind. 
