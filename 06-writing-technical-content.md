@@ -22,8 +22,8 @@ Technical content articles vary in target audience, goal, and tone. Here are the
 
 | Type                                                               | User                                                 | Goal                                                                                                                                                                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Documentation<br><br>- Reference guide<br>- User guide<br>- README | prospective, <br>new, <br>intermediate, <br>advanced | Helps the reader understand what the product does, and how to use it.<br><br>- Reference guide: <br>- User guide: Provide a high-level explanation of what the feature is, <br>how it works, and its benefit to the user. Walks through installation, <br>deployment, and usage. Include links to relevant tutorials.<br>- README: Explains what the project is, and how to use it.  |
-| Blog post                                                          |                                                      |                                                                                                                                                                                                                                                                                                                                                                                      |
+| Documentation<br><br>- Reference guide<br>- User guide<br>- README | prospective, <br>new, <br>intermediate, <br>advanced | Helps the reader understand what the product does, and how to use it.<br><br>- Reference guide: <br>- User guide: Provide a high-level explanation of what the feature is, <br>how it works, and its benefit to the user. Walks through installation, <br>deployment, and usage. Include links to relevant tutorials.<br>- README: Explains what the project is, and how developers can use and engage with the project.  |
+| Blog post                                                          | prospective, <br>new, <br>intermediate                                                     |                                                                                                                                                                                                                                                                                                                                                                                      |
 | Learning portal course<br>(learn.crunchydata.com)                  | prospective, <br>new, <br>intermediate               |                                                                                                                                                                                                                                                                                                                                                                                      |
 
 
@@ -33,7 +33,7 @@ Some general guidelines are described below. For guidelines specific to a type o
 
 ### Writing technical content
 
-When writing technical content, follow the style points outlined in the [Voice and tone](./03-voice-and-tone.md) and Grammar and mechanics*** sections. Here are some other goals and pointers to keep in mind.
+When writing technical content, follow the style points outlined in the [Voice and tone](./03-voice-and-tone.md) and [Grammar and mechanics](./04-grammar-and-mechanics.md)sections. Here are some other goals and pointers to keep in mind.
 
 #### Stay relevant to the title
 
@@ -67,7 +67,7 @@ Technical content uses organization, capitalization, and other formatting to hel
 
 Capitalize proper names of Crunchy Data products, features, pages, tools, and teams when directly mentioned. 
 
-In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the app.
+In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the tool.
 
 - 
 

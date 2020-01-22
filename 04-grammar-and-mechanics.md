@@ -40,7 +40,7 @@ Words like “was” and “by” may indicate that you’re writing in passive 
 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
-- Your account was flagged by our abuse team.
+- Your account was flagged by our support team.
 
 ### Capitalization
 
@@ -116,12 +116,12 @@ Use a hyphen (-) to indicate a range or span of numbers.
 
 #### Time
 
-Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time. 
+Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time.
 
-- 7 am 
+- 7 am
 - 7:30 pm
 
-Use a hyphen between times to indicate a time period. 
+Use a hyphen between times to indicate a time period.
 
 - 7 am–10:30 pm
 
@@ -170,7 +170,7 @@ You can also use a colon to join 2 related phrases. If a complete sentence follo
 
 #### Commas
 
-When writing a list, use the serial comma (also known as the Oxford comma). 
+When writing a list, use the serial comma (also known as the Oxford comma).
 
 - Yes: David admires his parents, Oprah, and Justin Timberlake.
 - No: David admires his parents, Oprah and Justin Timberlake.
@@ -280,7 +280,7 @@ The first time you mention a person in writing, refer to them by their first and
 Capitalize the names of departments and teams (but not the word "team" or "department").
 
 - Marketing team
-- Support department
+- Human Resources department
 
 Capitalize individual job titles when referencing to a specific role. Don't capitalize when referring to the role in general terms.
 
@@ -305,7 +305,7 @@ Avoid spelling out URLs, but when you need to, leave off the http://www.
 
 #### Writing about Crunchy Data
 
-Our company's legal entity name is "" Our trade name is "Crunchy Data." Use "" only when writing legal documents or contracts. Otherwise, use "Crunchy Data."
+Our company's legal entity name is "Crunchy Data Solutions, Inc." Our trade name is "Crunchy Data." Use "Crunchy Data Solutions, Inc." only when writing legal documents or contracts. Otherwise, use "Crunchy Data." "Crunchy" may be used in less informal content (e.g. blog posts), and only after having specified "Crunchy Data" once.
 
 Always capitalize the first “C” and the “D” in Crunchy Data.
 
@@ -336,10 +336,10 @@ Use italics to indicate the title of a long work (like a book, movie, or album) 
 - *Dunston Checks In*
 - Brandon *really* loves *Dunston Checks In*.
 
-Use italics when citing an example of an in-app Crunchy Data element, or referencing button and navigation labels in step-by-step instructions:
+<!--Use italics when citing an example of an in-app Crunchy Data element, or referencing button and navigation labels in step-by-step instructions:
 
 - When you're all done, click *Send*.
-- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
+- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once. -->
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
