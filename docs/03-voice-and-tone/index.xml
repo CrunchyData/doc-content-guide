@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voice and Tone on Crunchy Data Content Guide</title>
+    <link>crunchydata.github.io/doc-content-guide/03-voice-and-tone/</link>
+    <description>Recent content in Voice and Tone on Crunchy Data Content Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="crunchydata.github.io/doc-content-guide/03-voice-and-tone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
