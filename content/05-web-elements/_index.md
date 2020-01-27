@@ -14,11 +14,9 @@ Every piece of content we publish is supported by a number of smaller pieces. Th
 
 Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-For more on how and why we use alt text, read the [Accessibility](./11-writing-for-accessibility.md) section.
+For more on how and why we use alt text, read the [Accessibility](../11-writing-for-accessibility/) section.
 
 ### Headings and subheadings
-
-***Making content "shareable" also goes under here? (e.g. anchor links for headers?)
 
 Headings and subheadings organize content for readers and make it scannable, like a newspaper. Be generous and descriptive.
 
@@ -81,7 +79,7 @@ Don’t use punctuation in a title unless the title is a question.
 
 ## SEO
 
-We write for humans, not machines. While we wouldn't want to resort to keyword stuffing just to bump up search results, we also want to make it easy for people and search engines to find and share our content. Here are some not-icky ways to do this:
+We write for humans, not machines. While we wouldn't want to resort to keyword stuffing just to bump up search results, we also want to make it easy for people and search engines to find and share our content. Here are some recommended ways to do this:
 
 * Organize your page around one topic. Use clear, descriptive terms in titles and headings that relate to the topic at hand.
 

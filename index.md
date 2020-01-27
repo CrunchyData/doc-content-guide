@@ -4,7 +4,7 @@ date: 2019-12-17T20:23:17-08:00
 draft: false
 ---
 
-# Welcome to the Crunchy Content Guide
+# Welcome to the Crunchy Data Content Guide
 
 This is our company content guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Crunchy Data.
 

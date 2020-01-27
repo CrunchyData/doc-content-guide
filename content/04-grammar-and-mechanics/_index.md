@@ -6,7 +6,7 @@ weight: 4
 
 # Grammar and Mechanics
 
-Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you're looking for something in particular.)
+Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out style guidelines, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—try using the search function if you're looking for something in particular.)
 
 ## Basics
 
@@ -46,7 +46,7 @@ Words like “was” and “by” may indicate that you’re writing in passive 
 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
-- Your account was flagged by our support team.
+- Your account was flagged by our Support team.
 
 ### Capitalization
 
@@ -57,7 +57,7 @@ When writing out an email address or website URL, use all lowercase.
 - test@crunchydata.com
 - crunchydata.com
 
-Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](./12-word-list.md).
+Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](../12-word-list/).
 
 - website
 - internet
@@ -333,19 +333,12 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-<!--- Crunchy's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure. -->
-
 ### Text formatting
 
 Use italics to indicate the title of a long work (like a book, movie, or album) or to emphasize a word.
 
 - *Dunston Checks In*
 - Brandon *really* loves *Dunston Checks In*.
-
-<!--Use italics when citing an example of an in-app Crunchy Data element, or referencing button and navigation labels in step-by-step instructions:
-
-- When you're all done, click *Send*.
-- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once. -->
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 

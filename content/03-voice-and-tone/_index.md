@@ -6,7 +6,7 @@ weight: 3
 
 # Voice and Tone
 
-One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Crunchy.
+One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Crunchy Data.
 
 What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you're out to dinner with your closest friends, and a different tone when you're in a meeting with your boss.
 
@@ -30,13 +30,13 @@ All of this means that when we write content:
 
 ## Tone
 
-When you’re writing, consider the reader’s state of mind. <!--Are they confused and seeking our help on Twitter? --> Once you have an idea of their emotional state, you can adjust your tone accordingly.
+When you’re writing, consider the reader’s state of mind. Once you have an idea of their emotional state, you can adjust your tone accordingly.
 
 It's alright to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
 
 ## Style tips
 
-Here are a few key elements of writing Crunchy’s voice. For more, see the [Grammar and mechanics section](./04-grammar-and-mechanics.md).
+Here are a few key elements of writing Crunchy’s voice. For more, see the [Grammar and mechanics section](../04-grammar-and-mechanics/).
 
 * **Active voice:** Use active voice. Avoid passive voice.
 * **Avoid slang and jargon:** Write in plain English.

@@ -20,7 +20,7 @@ Good content is:
 Crunchy Data’s voice is:
 
 - Genuine
-- Planinspoken
+- Plainspoken
 - Accurate
 
 Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.

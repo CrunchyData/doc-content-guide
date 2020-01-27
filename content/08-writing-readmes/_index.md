@@ -40,7 +40,7 @@ When relevant, indicate under what terms the project may be used. Name and link 
 - What are the requirements? (e.g. hardware, OS, tooling, other dependencies)
 - List the specific steps to install and use the project for the first time.
     - Extended instructions for day-to-day usage should go in a user guide and other dedicated docs.
-- Feel free to include examples and expected output. It is more helpful to include the "smallest" example of usage, and then provide links to docs containing longer and more detailed examples. This also applies to troubleshooting.
+- Include examples and expected output. Assuming that the README will not be the only available documentation for the project, it is more helpful to include the "smallest" examples of usage, then provide links to docs containing longer and more detailed examples. This also applies to troubleshooting.
 
 ### Help the reader engage with the project
 
@@ -50,6 +50,13 @@ When relevant, indicate under what terms the project may be used. Name and link 
 - Tell the reader how they can help. This includes linking to and summarizing a contributor's guide, GitHub pull requests, channels for reporting issues and bugs, etc.
 
 It might also be a good idea to include a quick roadmap or list ideas for future enhancements or releases.
+
+## Examples
+
+Here are some README templates that might be helpful:
+
+- [Make a README](https://www.makeareadme.com/#template-1)
+- 
 
 ## Final Notes
 

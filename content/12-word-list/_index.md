@@ -86,5 +86,5 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - funnel, incentivize, leverage, disruption, thought leader, or other fluffy corporate terms
 - internets, interwebs, or any other variation of the word “internet”
 - ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
-- young, old, elderly, or any other word describing a person's age <!-- - crushing it, killing it -->
+- young, old, elderly, or any other word describing a person's age
 - crazy, insane, or similar words to describe people

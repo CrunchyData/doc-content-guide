@@ -39,7 +39,7 @@ Some general guidelines are described below. For guidelines specific to a type o
 
 ### Writing technical content
 
-When writing technical content, follow the style points outlined in the [Voice and tone](./03-voice-and-tone.md) and [Grammar and mechanics](./04-grammar-and-mechanics.md)sections. Here are some other goals and pointers to keep in mind.
+When writing technical content, follow the style points outlined in the [Voice and tone](../03-voice-and-tone/) and [Grammar and mechanics](../04-grammar-and-mechanics/)sections. Here are some other goals and pointers to keep in mind.
 
 #### Stay relevant to the title
 
@@ -75,14 +75,10 @@ Capitalize proper names of Crunchy Data products, features, pages, tools, and te
 
 In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the tool.
 
-- 
-
-<!--
 - Crunchy Data
-- Compliance Team, Billing Team
-- Navigate to the **Reports** page.
-- Click **Create**.
--->
+- Crunchy Certified PostgreSQL
+- Support team
+- Click **Add New Server**.
 
 #### Headings
 
@@ -103,4 +99,8 @@ Only use ordered lists for step-by-step instructions. Separate steps into logica
 
 #### Unordered Lists
 
-Use unordered lists to display examples or multiple notes. If an unordered list comprises more than 10 items, use a table instead.
+Use unordered lists to display examples or multiple notes. If an unordered list comprises more than 10 items, consider using a table instead.
+
+#### Code Snippets
+
+Highlight inline code or use code blocks.

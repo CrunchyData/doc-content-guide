@@ -9,7 +9,7 @@ All Crunchy blog posts are published on https://info.crunchydata.com/blog and wi
 
 ## Guidelines
 
-When writing for the blog, follow the style points outlined in the [Voice and tone](./03-voice-and-tone.md) and [Grammar and mechanics](./04-grammar-and-mechanics.md) sections. Here are some more specific pointers, too.
+When writing for the blog, follow the style points outlined in the [Voice and tone](../03-voice-and-tone/) and [Grammar and mechanics](../04-grammar-and-mechanics/) sections. Here are some more specific pointers, too.
 
 ### Choosing a blog topic
 Blog topics can range from in-depth explanations of new or old technology to straightforward and helpful How To guides. When choosing a topic, keep your targeted reader in mind. 
@@ -43,7 +43,7 @@ Each blog post should contain an introductory paragraph to inform the reader of 
 ### Link it up
 Feel free to link away from Crunchy pages if it helps you explain something.
 
-> It would also be great if a [Learning Portal (Katacoda)](./10-writing-for-the-learning-portal.md) scenario accompanied the blog post. This helps Crunchy build up our learning material and drives additional traffic to our other content.
+> It would also be great if a [Learning Portal (Katacoda)](../10-writing-for-the-learning-portal/) scenario accompanied the blog post. This helps Crunchy build up our learning material and drives additional traffic to our other content.
 
 ### Use pictures
 Include images in your blog posts when it makes sense. If you’re explaining how to use a GUI tool, screenshots can help illustrate your point. Make sure to use alt text.

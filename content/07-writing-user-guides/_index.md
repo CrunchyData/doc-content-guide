@@ -30,7 +30,7 @@ The user guide does not have to contain every single piece of information about 
 
 ### Don't skimp on the details
 
-For the information that does make it to the user guide, be appropriately thorough. If completing a task requires a series of actions, err on the side of being explicit (e.g. number each step in the right order, and include no more than two actions per step).
+For the information that does make it to the user guide, be appropriately thorough. If completing a task requires a series of actions, err on the side of being explicit and straightforward (e.g. number each step in the right order, and include no more than two actions per step).
 
 ## Template
 
