@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 languageCode = "en-us"
-publishDir = "../docs"
+publishDir = "docs"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 relativeURLs = true
@@ -12,7 +12,7 @@ theme = "crunchy-hugo-theme"
 title = "Crunchy Data Content Guide"
 
 [params]
-editURL = "https://github.com/CrunchyData/doc-content-guide"
+editURL = "https://github.com/CrunchyData/doc-content-guide/edit/master/content"
 showVisitedLinks = false # default is false
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
