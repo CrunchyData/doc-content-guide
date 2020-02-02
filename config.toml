@@ -1,4 +1,4 @@
-baseURL = "crunchydata.github.io/doc-content-guide"
+baseURL = "" # crunchydata.github.io/doc-content-guide
 canonifyurls = true
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
