@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing for the Learning Portal on Crunchy Data Content Guide</title>
-    <link>crunchydata.github.io/doc-content-guide/10-writing-for-the-learning-portal/</link>
+    <link>/10-writing-for-the-learning-portal/</link>
     <description>Recent content in Writing for the Learning Portal on Crunchy Data Content Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="crunchydata.github.io/doc-content-guide/10-writing-for-the-learning-portal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/10-writing-for-the-learning-portal/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

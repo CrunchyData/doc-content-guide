@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grammar and Mechanics on Crunchy Data Content Guide</title>
-    <link>crunchydata.github.io/doc-content-guide/04-grammar-and-mechanics/</link>
+    <link>/04-grammar-and-mechanics/</link>
     <description>Recent content in Grammar and Mechanics on Crunchy Data Content Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="crunchydata.github.io/doc-content-guide/04-grammar-and-mechanics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/04-grammar-and-mechanics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
