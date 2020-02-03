@@ -311,7 +311,7 @@ Avoid spelling out URLs, but when you need to, leave off the http://www.
 
 #### Writing about Crunchy Data
 
-Our company's legal entity name is "Crunchy Data Solutions, Inc." Our trade name is "Crunchy Data." Use "Crunchy Data Solutions, Inc." only when writing legal documents or contracts. Otherwise, use "Crunchy Data." "Crunchy" may be used in less informal content (e.g. blog posts), and only after having specified "Crunchy Data" once.
+Our company's legal entity name is "Crunchy Data Solutions, Inc." Our trade name is "Crunchy Data." Use "Crunchy Data Solutions, Inc." only when writing legal documents or contracts. Otherwise, use "Crunchy Data." "Crunchy" may also be used, but only after having specified "Crunchy Data" once.
 
 Always capitalize the first “C” and the “D” in Crunchy Data.
 
