@@ -18,13 +18,19 @@ Each step will open in the browser accompanied by an interactive terminal (and o
 
 Avoid long walls of text. If the step becomes so long that the user ends up scrolling too much, consider breaking it out into smaller individual steps.
 
-### Don't assume expertise
+### Don't always assume a specific level of expertise
 
-If you are creating a workshop, course or scenario for a specific group that you know very well, you might be able to tailor the narrative to them. Otherwise, you should assume that you are writing for a complete beginner. Be clear when providing instructions and feel free to add supporting explanations as you go (e.g. why is a particular step necessary, and why does it have to be done exactly in that way?).
+Unless the material is written for a complete beginner, it is good practice to identify skills or knowledge prerequisites before diving in. You might also link to documentation, articles, or even other Katacoda scenarios that would help prep the user and better absorb your material.
+
+Be clear when providing instructions and feel free to add supporting explanations as you go (e.g. why is a particular step necessary, and why does it have to be done exactly in that way?).
 
 ### Connect with existing material
 
-There might be other material (such as docs or blog posts) that could be helpful for the user to read. Feel free to include links and make sure to briefly describe what they are.
+There might be other material (such as docs or blog posts) that could be helpful for the user to read after completing the course or scenario. Include links and make sure to briefly describe what they are.
+
+### Encourage practice
+
+The learning portal can also serve as a playground - feel free to guide the user to try their own examples in addition to the steps and cases you've provided.
 
 ### Formatting
 
