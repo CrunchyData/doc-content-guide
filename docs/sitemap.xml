@@ -35,6 +35,10 @@
   </url>
   
   <url>
+    <loc>/09-writing-blog-posts/</loc>
+  </url>
+  
+  <url>
     <loc>/10-writing-for-the-learning-portal/</loc>
   </url>
   
@@ -47,21 +51,16 @@
   </url>
   
   <url>
-    <loc>/14-further-reading/</loc>
+    <loc>/13-helpful-tools/</loc>
   </url>
   
   <url>
-    <loc>/13-helpful-tools/</loc>
+    <loc>/14-further-reading/</loc>
   </url>
   
   <url>
     <loc>/</loc>
     <lastmod>2019-12-17T20:23:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/09-writing-blog-posts/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

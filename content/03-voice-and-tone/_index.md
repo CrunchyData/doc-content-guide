@@ -18,11 +18,11 @@ At Crunchy, we’ve walked in our customers' shoes, and we know PostgreSQL and i
 
 We treat every user seriously. We want to educate people without patronizing or confusing them.
 
-Whether people know what they need from us or don’t know the first thing about Postgres, every word we say informs and encourages. We impart our expertise with clarity and empathy.
+Whether people know what they need from us or don’t know the first thing about PostgreSQL, every word we say informs and encourages. We impart our expertise with clarity and empathy.
 
 All of this means that when we write content:
 
-1. **We are plainspoken.** We value clarity above all. Because businesses come to Crunchy to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion.
+1. **We are plainspoken.** We value clarity above all. Because businesses come to Crunchy to get work done, we avoid distractions like fluffy metaphors and cheap plays to emotion.
 
 2. **We are genuine.** We relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way.
 

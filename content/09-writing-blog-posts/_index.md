@@ -1,3 +1,4 @@
+---
 title: "Writing Blog Posts"
 draft: false
 weight: 9
