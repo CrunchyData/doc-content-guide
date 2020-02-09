@@ -2,7 +2,7 @@
 
 This content guide is for Crunchy Data employees to use as a general reference for creating technical content (user guides, READMEs, etc.). The repository contains a collection of Markdown files:
 
-- [index.md](./index.md) is for the homepage
+- [index.md](.=context/_index.md) is for the homepage
 - [01-tldr.md](./01-tldr.md) is intended to highlight the most important points throughout the guide
 - [06-writing-technical-content.md](./06-writing-technical-content.md) is a collection of *writing* guidelines that apply to any kind of technical content
 - There are specific sections for user guides, READMEs, blog posts, and learn.crunchydata.com (Katacoda) - more may be added later if necessary 

@@ -4,8 +4,6 @@ draft: false
 weight: 4
 ---
 
-# Grammar and Mechanics
-
 Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out style guidelines, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—try using the search function if you're looking for something in particular.)
 
 ## Basics

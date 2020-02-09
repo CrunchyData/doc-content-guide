@@ -4,8 +4,6 @@ draft: false
 weight: 2
 ---
 
-# Writing Principles
-
 With every piece of content we publish, we aim to:
 
 * **Empower.** Help people understand Crunchy Data by using language that informs them and encourages them to make the most of our products.

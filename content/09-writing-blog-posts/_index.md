@@ -4,8 +4,6 @@ draft: false
 weight: 9
 ---
 
-# Writing Blog Posts
-
 All Crunchy blog posts are published on https://info.crunchydata.com/blog and will likely be shared on the company LinkedIn page and Twitter account to promote visibility of the article and drive traffic back to the blog and website. Blog posts give us the opportunity to showcase our knowledge, connect with our relevant audience and build trust.
 
 ## Guidelines

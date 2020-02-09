@@ -4,8 +4,6 @@ draft: false
 weight: 6
 ---
 
-# Writing Technical Content
-
 At Crunchy Data, technical content appears primarily in our [Access portal](https://access.crunchydata.com/), our project repositories, our [blog](https://info.crunchydata.com/blog), and our [interactive Learning Portal](https://learn.crunchydata.com/). This section will lay out the guiding principles of technical content, briefly discuss the main types of technical content, and outline the process of writing and editing technical articles.
 
 You may also navigate to the individual pages that cover specific pointers for each content type.
@@ -30,9 +28,9 @@ Technical content articles vary in target audience, goal, and tone. Here are the
 
 | Type                                                               | User                                                 | Goal                                                                                                                                                                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Documentation<br><br>- Reference guide<br>- [User guide](../07-writing-user-guides/)<br>- [README](../08-writing-readmes/) | prospective, <br>new, <br>intermediate, <br>advanced | Help the reader understand what the product does, and how to use it.<br><br>- Reference guide: <br>- User guide: Provide a high-level explanation of what the feature is, <br>how it works, and its benefit to the user. Walk through installation, <br>deployment, and usage. Include links to relevant tutorials.<br>- README: Explain what the project is, and how developers can use and engage with the project.  |
-| [Blog post](../09-writing-blog-posts)                                                          | prospective, <br>new, <br>intermediate                                                     | Discuss common and/or interesting problems, engage with the broader community, and promote the Crunchy brand                                                                                                                                                                                                                                                                                                                                                                                       |
-| [Learning portal course/scenario](../10-writing-for-the-learning-portal/)<br>(learn.crunchydata.com)                  | prospective, <br>new, <br>intermediate               | Provide an interactive learning experience for PostgreSQL and other related skills for users                                                                                                                                                                                                                                                                                                                                                                                    |
+| Documentation<br><br>- Reference guide: Provide details on the programming aspects of the product, e.g. commands, functions, parameters, return types. <br>- [User guide](../07-writing-user-guides/)<br>- [README](../08-writing-readmes/) | prospective, <br>new, <br>intermediate, <br>advanced | Help the reader understand what the product does, and how to use it.<br><br>- Reference guide: <br>- User guide: Provide a high-level explanation of what the feature is, <br>how it works, and its benefit to the user. Walk through installation, <br>deployment, and usage. Include links to relevant tutorials.<br>- README: Explain what the project is, and how developers can use and engage with the project.  |
+| [Blog post](../09-writing-blog-posts)                                                          | prospective, <br>new, <br>intermediate, advanced                                                     | Discuss common and/or interesting problems, engage with the broader community, and promote the Crunchy brand.                                                                                                                                                                                                                                                                                                                                                                                       |
+| [Learning portal course/scenario](../10-writing-for-the-learning-portal/)<br>(learn.crunchydata.com)                  | new, <br>intermediate               | Provide an interactive learning experience for PostgreSQL and other related skills for users.                                                                                                                                                                                                                                                                                                                                                                                    |
 
 
 Some general guidelines are described below. For guidelines specific to a type of article, check out the relevant page using the navigation menu.
@@ -51,17 +49,25 @@ When a user clicks the title of an article, they expect to find the answer they 
 
 Focused users often scan an article for the part that will answer their particular question. Be sure headings are short, descriptive, and parallel, to facilitate scanning.
 
-#### Use second person and describe actions to a user
+#### Situate the user
 
-Technical content talks to users when support agents can’t.
+Don't forget to explicitly tell them, up-front, what system to do an action, and as which user (e.g. superuser, an account with certain roles or privileges).
+
+#### Use second person and describe actions
+
+Technical content talks to users when support agents can’t. 
+
+Strive to describe not only the what or how, but also the *why*.
 
 #### Strive for simplicity and clarity
 
-Be as clear as possible. Use simple words and phrases, avoid gerunds and hard-to-translate idioms or words, focus on the specific task, limit the number of sentences per paragraph. If you must include edge cases or tangentially related information, set it aside in a Before You Start list or Notes field.
+Be as clear as possible. Use simple words and phrases, avoid gerunds and hard-to-translate idioms or words, focus on the specific task, and limit the number of sentences per paragraph. 
+
+If you must include edge cases or tangentially related information, set it aside in a Before You Start list or Notes field.
 
 #### Provide context through embedded screenshots, videos, and GIFs
 
-Screenshots, videos, and GIFs may not be necessary for every article or process, but can be helpful to orient new users. Crop screenshots tightly around the action to focus attention.
+Screenshots, videos, and GIFs may are not necessary for every article or process, but can be helpful to orient new users. Crop screenshots tightly around the action to focus attention.
 
 #### Test all steps and code samples
 
@@ -103,6 +109,8 @@ Only use ordered lists for step-by-step instructions. Separate steps into logica
 
 Use unordered lists to display examples or multiple notes. If an unordered list comprises more than 10 items, consider using a table instead.
 
-#### Code Snippets
+#### Code Samples
 
-Highlight inline code or use code blocks.
+Highlight inline code or use code blocks. 
+
+Add comments not only to describe the what or how, but the *why*.

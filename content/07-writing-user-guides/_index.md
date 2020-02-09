@@ -4,8 +4,6 @@ draft: false
 weight: 7
 ---
 
-# Writing User Guides
-
 A user guide provides information that a user would need in day-to-day use of the product. User guides may have a little bit more of a "narrative" voice compared to reference guides and READMEs. 
 
 ## Guidelines

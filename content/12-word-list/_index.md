@@ -4,8 +4,6 @@ draft: false
 weight: 12
 ---
 
-# Word List
-
 These words can be slippery. Here’s how we write them. <!--(If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).) -->
 
 - back end (noun), back-end (adjective)

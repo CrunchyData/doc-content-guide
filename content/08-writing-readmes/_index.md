@@ -4,8 +4,6 @@ draft: false
 weight: 8
 ---
 
-# Writing READMEs
-
 A README is a single file (typically .txt, or .md) that introduces the reader to the project repository and source code.
 
 Like user guides, a README informs the reader what a project is for and how to use it. That said, the target audience for READMEs is more specific: developers (both on your project's team as well as outside), and potentially other end users who are comfortable with code. READMEs can also contain additional information that doesn't necessarily belong in a user guide, such as acknowledgements, licensing, etc.
