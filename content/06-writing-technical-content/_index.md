@@ -51,7 +51,7 @@ Focused users often scan an article for the part that will answer their particul
 
 #### Situate the user
 
-Don't forget to explicitly tell them, up-front, what system to do an action, and as which user (e.g. superuser, an account with certain roles or privileges).
+Don't forget to explicitly tell them, up-front, what system to do an action on, and as which user (e.g. superuser, or an account with read privileges).
 
 #### Use second person and describe actions
 
