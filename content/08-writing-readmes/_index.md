@@ -51,14 +51,14 @@ It might also be a good idea to include a quick roadmap or list ideas for future
 
 ## Examples
 
-Here are some README templates that might be helpful:
+Here are some examples that you could check out for reference:
 
-- [Make a README](https://www.makeareadme.com/#template-1)
-- 
+- Make a README [template](https://www.makeareadme.com/#template-1)
+- Extensive list on the Awesome README [repo](https://github.com/matiassingers/awesome-readme)
 
 ## Final Notes
 
-- Developers are the target audience here, but remember that they can still be unfamiliar with most (or all!) aspects of this project. 
+- Developers are the target audience here, but remember that they can still be unfamiliar with most aspects of this project. 
 - If your README is long and contains several large sections, consider adding a table of contents at the beginning.
 
 ## Acknowledgement
