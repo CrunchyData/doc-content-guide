@@ -5,10 +5,6 @@
     <link>/02-writing-principles/</link>
     <description>Recent content in Writing Goals and Principles on Crunchy Data Content Guide</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/02-writing-principles/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/02-writing-principles/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

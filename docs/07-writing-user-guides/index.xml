@@ -5,10 +5,6 @@
     <link>/07-writing-user-guides/</link>
     <description>Recent content in Writing User Guides on Crunchy Data Content Guide</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/07-writing-user-guides/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/07-writing-user-guides/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

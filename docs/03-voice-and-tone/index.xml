@@ -5,10 +5,6 @@
     <link>/03-voice-and-tone/</link>
     <description>Recent content in Voice and Tone on Crunchy Data Content Guide</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/03-voice-and-tone/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/03-voice-and-tone/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

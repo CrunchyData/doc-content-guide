@@ -5,10 +5,6 @@
     <link>/10-writing-for-the-learning-portal/</link>
     <description>Recent content in Writing for the Learning Portal on Crunchy Data Content Guide</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/10-writing-for-the-learning-portal/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/10-writing-for-the-learning-portal/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
