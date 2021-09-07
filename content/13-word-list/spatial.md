@@ -1,7 +1,7 @@
 ---
 title: "Crunchy Spatial List"
 date: 2020-03-10T16:35:53-07:00
-draft: true
+draft: false
 weight: 900
 ---
 
