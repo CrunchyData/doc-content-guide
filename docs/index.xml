@@ -7,5 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Dec 2019 20:23:17 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crunchy Spatial List</title>
+      <link>/13-word-list/spatial/</link>
+      <pubDate>Tue, 10 Mar 2020 16:35:53 -0700</pubDate>
+      
+      <guid>/13-word-list/spatial/</guid>
+      <description> basemap geolocation properties can be used to refer to a general collection of items such as center, extent, etc. web map  </description>
+    </item>
+    
   </channel>
 </rss>

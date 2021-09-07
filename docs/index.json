@@ -98,6 +98,13 @@
 	"content": "This guide is based on the work done by Mailchimp on their style guide. (Here\u0026rsquo;s the Mailchimp style guide repository on GitHub.)\nWe also recommend these style guides:\n18F Content Guide\nA List Apart Style Guide Google developer documentation style guide\nMicrosoft Writing Style Guide\nThese resources were also helpful to us:\nAccessibility Cheatsheet\n18F Accessibility Guide\nDesigning for Screen Reader Compatibility\nAccessible Color Combinations\nThe Conscious Style Guide\nGLAAD Media Reference Guide\n"
 },
 {
+	"uri": "/13-word-list/spatial/",
+	"title": "Crunchy Spatial List",
+	"tags": [],
+	"description": "",
+	"content": " basemap geolocation properties can be used to refer to a general collection of items such as center, extent, etc. web map  "
+},
+{
 	"uri": "/",
 	"title": "Content Guide Template",
 	"tags": [],
