@@ -1,7 +1,7 @@
 ---
 title: "Further Reading"
 draft: false
-weight: 14
+weight: 15
 ---
 
 This guide is based on the work done by Mailchimp on their [style guide](https://styleguide.mailchimp.com/). (Here's the Mailchimp style guide [repository on GitHub](https://github.com/mailchimp/style-guide).)

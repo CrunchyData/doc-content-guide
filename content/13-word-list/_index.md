@@ -1,7 +1,7 @@
 ---
 title: "Word List"
 draft: false
-weight: 12
+weight: 13
 ---
 
 These words can be slippery. Here’s how we write them. <!--(If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).) -->
@@ -9,7 +9,6 @@ These words can be slippery. Here’s how we write them. <!--(If it’s not on t
 - back end (noun), back-end (adjective)
 - beta
 - data center
-- data set
 - drop-down (noun, adjective), drop down (verb)
 - email (never hyphenate, never capitalize unless it begins a sentence)
   - To name
@@ -18,7 +17,7 @@ These words can be slippery. Here’s how we write them. <!--(If it’s not on t
   - Subject line
   - Cc, Bcc
 - front end (noun), front-end (adjective)
-- geolocation
+- high availability (noun), high-availability (adjective)
 - homepage
 - integrate
 - internet (never capitalize unless it begins a sentence)
@@ -28,6 +27,8 @@ These words can be slippery. Here’s how we write them. <!--(If it’s not on t
 - OK
 - online (never capitalize unless it begins a sentence)
 - pop-up (noun, adjective), pop up (verb)
+- RESTful
+- stand-alone
 - sync
 - third party (noun), third-party (adjective)
 - troubleshoot
